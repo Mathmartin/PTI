@@ -108,6 +108,7 @@ O principal objetivo deste projeto é criar um protótipo visual e funcional de 
 - Salvar
 - Cancelar
 
+  ### Feedback
 [Link para Protótipo no Figma](https://www.figma.com/design/7jNG73WVsOWaISGaINMuGQ/Cadastro-Aluno?m=dev&node-id=0%3A1&t=9cQJxuPh77hCrTTr-1)
 
 ## Diagramas da Fase 1
@@ -117,3 +118,6 @@ O principal objetivo deste projeto é criar um protótipo visual e funcional de 
 
 ### Diagrama de Classes
 ![Diagrama de Classes](https://github.com/Mathmartin/PTI/blob/main/Captura%20de%20tela%202024-05-19%20173326.png?raw=true)
+
+### FeedBack
+[Link completo da PTI 1ºEntrega](https://1drv.ms/b/s!AktbXv_lfUEJgYdRArCQvAABeQWeJw?e=EgCu7s)
