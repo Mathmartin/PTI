@@ -22,13 +22,17 @@ O principal objetivo deste projeto é criar um protótipo visual e funcional de 
 | Campo               | Tipo      |
 |---------------------|-----------|
 | Nome                | Texto     |
-| CPF                 | Texto     |
-| Endereço            | Texto     |
+| CPF                 | Texto     | 
+| Endereço            | Texto     |   
 | Data de Nascimento  | Data      |
 | Telefone            | Texto     |
 | Email               | Email     |
 
 ![Tela Cadastro de PF](PF.jpg)
+
+
+[Link para tela de cadastro]<a href="https://ibb.co/rQ5PrSd"><img src="https://i.ibb.co/rQ5PrSd/peFisica.jpg" alt="peFisica" border="0"></a>
+
 
 **Ações:**
 - Salvar
@@ -47,6 +51,10 @@ O principal objetivo deste projeto é criar um protótipo visual e funcional de 
 | Nome do Responsável| Texto     |
 
 ![Cadastro de PJ](pj1.jpg)
+
+
+[Link para tela de cadastro]<a href="https://ibb.co/8NdZJVR"><img src="https://i.ibb.co/8NdZJVR/pe-Juridica.jpg" alt="pe-Juridica" border="0"></a>
+
 
 **Ações:**
 - Salvar
@@ -67,11 +75,16 @@ O principal objetivo deste projeto é criar um protótipo visual e funcional de 
 
 ![Cadastro de Professor](professor.jpg)
 
+
+[Link para tela de cadastro]<a href="https://ibb.co/5LHx4sn"><img src="https://i.ibb.co/5LHx4sn/professor.jpg" alt="professor" border="0"></a>
+
+
 **Ações:**
 - Salvar
 - Cancelar
 
 [Link para Protótipo no Figma](https://www.figma.com/design/GtQ26hLkU1ykodT89y8IfH/Cadastro-Professor?m=dev&node-id=1%3A84&t=QOvxjxLBR4Iz8Dhb-1)
+
 
 ### Cadastro de Fornecedores
 | Campo                | Tipo      |
@@ -85,11 +98,16 @@ O principal objetivo deste projeto é criar um protótipo visual e funcional de 
 
 ![Cadastro de Fornecedor](fornecedor.jpg)
 
+
+[Link para tela de cadastro]<a href="https://ibb.co/Ld4pzpB"><img src="https://i.ibb.co/Ld4pzpB/Fornecedore.jpg" alt="Fornecedore" border="0"></a>
+
+
 **Ações:**
 - Salvar
 - Cancelar
 
 [Link para Protótipo no Figma](https://www.figma.com/design/2s22RwiMNFdd1Vsg8YRtSL/Cadastro-Fornecedor?m=dev&node-id=1%3A84&t=2foSi95XyhRRf95L-1)
+
 
 ### Cadastro de Alunos
 | Campo               | Tipo      |
@@ -104,12 +122,17 @@ O principal objetivo deste projeto é criar um protótipo visual e funcional de 
 
 ![Cadastro de Aluno](aluno.jpg)
 
+
+[Link para tela de cadastro]<a href="https://ibb.co/t3mZBWb"><img src="https://i.ibb.co/t3mZBWb/aluno.jpg" alt="aluno" border="0"></a>
+
+
 **Ações:**
 - Salvar
 - Cancelar
 
   ### Feedback
 [Link para Protótipo no Figma](https://www.figma.com/design/7jNG73WVsOWaISGaINMuGQ/Cadastro-Aluno?m=dev&node-id=0%3A1&t=9cQJxuPh77hCrTTr-1)
+
 
 ## Diagramas da Fase 1
 
@@ -121,3 +144,10 @@ O principal objetivo deste projeto é criar um protótipo visual e funcional de 
 
 ### FeedBack
 [Link completo da PTI 1ºEntrega](https://1drv.ms/b/s!AktbXv_lfUEJgYdRArCQvAABeQWeJw?e=EgCu7s)
+
+### Colaboradores:
+- Matheus Martinelli Belchior
+- Patrícia Costa da Silva Souza
+- Rodrigo Braghetto Yamakawa
+- Pedro Hortêncio Moreira Rosa
+
